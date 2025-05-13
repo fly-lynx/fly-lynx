@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fly-lynx
 - 👀 I’m interested in embedded system
 - 🌱 I’m currently learning firmware development
-- 💞️ I’m looking to collaborate on QEMU/RENODE project
+- 💞️ I’m looking to collaborate on QEMU/RENODE and VSOME/IP project
 - 📫 Contact: 21mt0432@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
